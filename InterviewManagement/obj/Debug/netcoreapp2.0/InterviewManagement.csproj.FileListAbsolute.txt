@@ -1,0 +1,11 @@
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\bin\Debug\netcoreapp2.0\InterviewManagement.deps.json
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\bin\Debug\netcoreapp2.0\InterviewManagement.runtimeconfig.json
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\bin\Debug\netcoreapp2.0\InterviewManagement.runtimeconfig.dev.json
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\bin\Debug\netcoreapp2.0\InterviewManagement.dll
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\bin\Debug\netcoreapp2.0\InterviewManagement.pdb
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\obj\Debug\netcoreapp2.0\InterviewManagement.csprojResolveAssemblyReference.cache
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\obj\Debug\netcoreapp2.0\InterviewManagement.csproj.CoreCompileInputs.cache
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\obj\Debug\netcoreapp2.0\InterviewManagement.AssemblyInfoInputs.cache
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\obj\Debug\netcoreapp2.0\InterviewManagement.AssemblyInfo.cs
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\obj\Debug\netcoreapp2.0\InterviewManagement.dll
+c:\users\deept\source\repos\InterviewManagement\InterviewManagement\obj\Debug\netcoreapp2.0\InterviewManagement.pdb
